@@ -1,67 +1,55 @@
 <template>
   <div class="container mx-auto mt-10">
     <header class="flex justify-between items-center">
-      <div style="height: 45px">
-        <img src="../assets/logo.png" class="h-full" alt="logo" />
+      <div style="height: 100px">
+        <img src="../assets/hero-logo.png" class="h-full" alt="logo" />
       </div>
       <ul class="flex">
         <li>
           <a
             href="#"
             class="hover:text-green-500 font-medium cursor-pointer p-4 px-3 py-2"
-            >Home</a
+            >Beranda</a
           >
         </li>
         <li>
           <a
             href="#"
             class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
-            >About</a
+            >Fitur Produk</a
           >
         </li>
         <li>
           <a
             href="#"
             class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
-            >Service</a
+            >Harga</a
           >
         </li>
         <li>
           <a
             href="#"
             class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
-            >Portfolio</a
-          >
-        </li>
-        <li>
-          <a
-            href="#"
-            class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
-            >Contact</a
+            >Resource</a
           >
         </li>
       </ul>
     </header>
 
     <div class="flex items-center mt-8">
-      <div class="w-1/2 p-24 py-32">
-        <h1 class="text-8xl font-bold leading-none font-sans">
-          Our Service For You
+      <div class="w-1/2 py-32">
+        <h1 class="text-6xl font-bold leading-tight font-sans">
+          Atur waktu anda lebih produktif
         </h1>
-        <p class="leading-relax mt-5 text-gray-500">
-          Contrary to popular belief, Lorem Ipsum is not simply random text. It
-          has roots in a piece of classical Latin literature from 45 BC, making
-          it over
-          <strong>2000</strong> years old. Richard McClintock, a Latin professor
-          at Hampden-Sydney College in Virginia, looked up one of the more
-          obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-          going through the cites of the word in classical literature,
-          discovered the undoubtable source.
+        <p class="leading-relax mt-9 text-gray-500 text-xl gap-3">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur iste
+          ut veritatis totam enim distinctio praesentium recusandae doloribus
+          repellat id?
         </p>
         <a
           href="#"
-          class="border-2 bg-green-500 text-white text-base tracking-wide hover:bg-green-600 transition duration-300 cursor-pointer rounded-full py-1.5 px-8 inline-block mt-8"
-          >Learn More</a
+          class="border-2 bg-green-500 text-white text-base tracking-wide hover:bg-green-600 transition duration-300 cursor-pointer rounded-full py-5 px-8 inline-block mt-8"
+          >Unduh Sekarang</a
         >
       </div>
       <div class="w-17/2">
