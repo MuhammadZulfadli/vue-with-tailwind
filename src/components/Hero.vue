@@ -8,28 +8,28 @@
         <li>
           <a
             href="#"
-            class="hover:text-green-500 font-medium cursor-pointer p-4 px-3 py-2"
+            class="hover:text-green-700 font-medium cursor-pointer p-4 px-3 py-2"
             >Beranda</a
           >
         </li>
         <li>
           <a
             href="#"
-            class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
+            class="hover:text-green-700 font-medium cursor-pointer px-3 py-2"
             >Fitur Produk</a
           >
         </li>
         <li>
           <a
             href="#"
-            class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
+            class="hover:text-green-700 font-medium cursor-pointer px-3 py-2"
             >Harga</a
           >
         </li>
         <li>
           <a
             href="#"
-            class="hover:text-green-500 font-medium cursor-pointer px-3 py-2"
+            class="hover:text-green-700 font-medium cursor-pointer px-3 py-2"
             >Resource</a
           >
         </li>
@@ -48,8 +48,8 @@
         </p>
         <a
           href="#"
-          class="border-2 bg-green-500 text-white text-base tracking-wide hover:bg-green-600 transition duration-300 cursor-pointer rounded-full py-5 px-8 inline-block mt-8"
-          >Unduh Sekarang</a
+          class="border-2 bg-green-700 text-white text-base tracking-wide hover:bg-green-600 transition duration-300 cursor-pointer rounded-full py-5 px-8 inline-block mt-8"
+          >Learn More</a
         >
       </div>
       <div class="w-17/2">
