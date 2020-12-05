@@ -48,7 +48,7 @@
         </p>
         <a
           href="#"
-          class="border-2 bg-green-700 text-white text-base tracking-wide hover:bg-green-600 transition duration-300 cursor-pointer rounded-full py-5 px-8 inline-block mt-8"
+          class="border-2 bg-green-600 text-white text-base tracking-wide hover:bg-green-500 transition duration-300 cursor-pointer rounded-full py-1.5 px-8 inline-block mt-8"
           >Learn More</a
         >
       </div>
